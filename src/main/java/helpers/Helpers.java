@@ -1,4 +1,8 @@
-public class helpers {
+package helpers;
+
+import java.util.Scanner;
+
+public class Helpers {
 
     public static String getNumber(int size) {
 
