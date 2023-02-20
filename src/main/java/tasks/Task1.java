@@ -8,7 +8,7 @@ public class Task1 {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число: ");
-        Integer number = sc.nextInt();
+        int number = sc.nextInt();
         if (number > 7) {
             System.out.println("Привет");
         } else {
